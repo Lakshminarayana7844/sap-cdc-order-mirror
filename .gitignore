@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+cdc_out/
+delta/
+.spark-warehouse/
