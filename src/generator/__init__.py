@@ -1,0 +1,1 @@
+"""CDC event generator package."""
